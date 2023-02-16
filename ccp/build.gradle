@@ -28,4 +28,6 @@ dependencies {
     implementation 'androidx.core:core:1.6.0'
     implementation 'io.michaelrocks:libphonenumber-android:8.12.52'
     implementation "androidx.cardview:cardview:1.0.0"
+    implementation 'com.github.User:Repo:Tag'
+
 }
